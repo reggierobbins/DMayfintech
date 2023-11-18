@@ -1,1 +1,1 @@
-Checking remote connection
+checking for streamline access
