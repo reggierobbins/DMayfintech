@@ -1,6 +1,3 @@
-# DMayfintech
-
-credit_risk_resampling_report
 # Module 12 Report Template
 
 ## Overview of the Analysis
@@ -48,3 +45,4 @@ Summarize the results of the machine learning models, and include a recommendati
     
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 -Perfomance does depend on the problem we are trying to solve. If it is more important to predict the 1's you would go with Model 1 because that model contains more healthy loan data with same Precision and Recall metrics.  And Model 2 for predicting the 0's because it has more "High-Risk" loan data and a better recall score with Precision minimally affected.
+If you do not recommend any of the models, please justify your reasoning.
